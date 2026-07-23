@@ -4,13 +4,13 @@
 
 This project analyses transactional data from an online retail business to identify the factors driving revenue and customer purchasing behaviour. The analysis examines revenue trends over time, identifies the highest-performing products and countries, compares spending behaviour between repeat and one-time customers, and translates analytical findings into actionable business recommendations.
 
-The findings reveal that revenue is highly concentrated within a small number of products, is heavily dependent on the United Kingdom market, and increases significantly towards the end of the year, suggesting strong seasonality. Repeat customers also generate higher average revenue than one-time buyers, highlighting customer loyalty as a major driver of business performance. Project_report.pdf
+The findings reveal that revenue is highly concentrated within a small number of products, is heavily dependent on the United Kingdom market, and increases significantly towards the end of the year, suggesting strong seasonality. Repeat customers also generate higher average revenue than one-time buyers, highlighting customer loyalty as a major driver of business performance.
 
 
 
 ## Business Problem
 
-Retail businesses generate large volumes of transactional data, but without structured analysis, valuable insights into customer behaviour and revenue performance remain hidden. Understanding when customers spend, what products generate the most revenue, and which customer segments contribute the greatest value enables businesses to make informed decisions regarding marketing, inventory planning, and customer retention. Project_report.pdf
+Retail businesses generate large volumes of transactional data, but without structured analysis, valuable insights into customer behaviour and revenue performance remain hidden. Understanding when customers spend, what products generate the most revenue, and which customer segments contribute the greatest value enables businesses to make informed decisions regarding marketing, inventory planning, and customer retention.
 
 
 
@@ -63,23 +63,23 @@ The project involved:
 
 ### Revenue Trends
 
-Revenue increases steadily towards the end of the year before dropping sharply in the final month, suggesting strong seasonal demand and indicating that the final month likely contains incomplete transactional data. Project_report.pdf
+Revenue increases steadily towards the end of the year before dropping sharply in the final month, suggesting strong seasonal demand and indicating that the final month likely contains incomplete transactional data.
 
 ### Geographic Revenue
 
-The United Kingdom contributes the overwhelming majority of total revenue, while Germany, France, EIRE and other countries account for significantly smaller proportions. This demonstrates a heavy dependence on a single geographic market. Project_report.pdf
+The United Kingdom contributes majority of total revenue, while Germany, France, EIRE and other countries account for significantly smaller proportions. This demonstrates a heavy dependence on a single geographic market.
 
 ### Product Performance
 
-A relatively small number of products—including **REGENCY CAKESTAND 3 TIER** and **WHITE HANGING HEART T-LIGHT HOLDER**—generate a substantial share of overall revenue, indicating that business performance is driven by a concentrated group of high-performing products. Project_report.pdf
+A relatively small number of products, including REGENCY CAKESTAND 3 TIER and WHITE HANGING HEART T-LIGHT HOLDER generate a substantial share of overall revenue, indicating that business performance is driven by a concentrated group of high-performing products.
 
 ### Customer Behaviour
 
-Repeat customers generate higher average revenue than one-time customers, confirming that customer loyalty contributes significantly to overall business performance. Project_report.pdf
+Repeat customers generate higher average revenue than one-time customers, confirming that customer loyalty contributes significantly to overall business performance
 
 ### Quantity vs Revenue
 
-Most transactions involve relatively small purchase quantities, while a limited number of high-volume purchases contribute disproportionately to total revenue, highlighting the importance of high-value orders. Project_report.pdf
+Most transactions involve relatively small purchase quantities, while a limited number of high-volume purchases contribute disproportionately to total revenue, highlighting the importance of high-value orders.
 
 
 
@@ -91,7 +91,7 @@ Based on the findings, the following recommendations were identified:
 - Increase inventory and marketing investment around high-performing products.
 - Diversify into additional geographic markets to reduce dependence on the UK.
 - Prepare inventory and staffing for seasonal demand peaks.
-- Identify high-value bulk purchasers and develop tailored business-to-business offers. Project_report.pdf
+- Identify high-value bulk purchasers and develop tailored business-to-business offers
 
 
 
