@@ -42,6 +42,9 @@ The analysis was performed using an online retail transaction dataset containing
 - Matplotlib
 - Jupyter Notebook
 
+## Notebook
+
+[`Analysis_workflow.ipynb`](notebooks/Analysis_workflow.ipynb)
 
 
 ## Analysis Performed
@@ -126,7 +129,9 @@ online-retail-revenue-drivers/
 
 ## Author
 
-**Kanu Calista**
+**Kanu Calista**  
 
-Healthcare Analytics • Business Analytics • Retail Analytics
+📧 [kanucalista02@gmail.com](mailto:kanucalista02@gmail.com)  
+
+💼 [LinkedIn](https://www.linkedin.com/in/kanu-calista) |  🐍 [GitHub](https://github.com/Kanu-Calista)
 
